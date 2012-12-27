@@ -11,6 +11,5 @@
 
 @implementation SetttingsViewController
 
-//this is just sample
 
 @end
